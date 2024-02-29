@@ -32,8 +32,6 @@ body {
   border-radius: 0.25em;
   cursor: pointer;
   outline: none;
-  width: 25%;
-  margin-left: 75%;
 }
 
 .btn:hover,
